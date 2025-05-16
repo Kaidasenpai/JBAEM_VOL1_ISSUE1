@@ -38,5 +38,6 @@ doi: 10.1016/j.jtcvs.2020.09.121.
 
 ---
 
-[insert picture of donald ross here]
+![Donald Ross Statue](https://raw.githubusercontent.com/Kaidasenpai/JBAEM_VOL1_ISSUE1/refs/heads/main/Ross%20Procedure%20Revisited_%20Evaluating%20its%20Role%20in%20Contemporary%20Cardiac%20Surgery/Figures/Figure_1.png)
+
 AI-generated image of a statue honoring Dr. Donald Ross, pioneer of the Ross Procedure, standing beside a heart valve model at Guy's Hospital.
