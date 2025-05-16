@@ -181,29 +181,21 @@ The authors acknowledge the support of the following institutions:
 - The Libyan center of Actuarial Studies.
 
 ### References 
-1. Wagner M. Fish can't see water: The need to humanize birth. Int J Gynaecol Obstet. 2001;75(Suppl 1):S25-S37.
-doi: 10.1016/S0020-7292(01)00519-7
+1. Wagner M. Fish can't see water: The need to humanize birth. Int J Gynaecol Obstet. 2001;75(Suppl 1):S25-S37. doi: 10.1016/S0020-7292(01)00519-7
 2. Declercq ER, Sakala C, Corry MP, Applebaum S. Listening to mothers III: Pregnancy and birth. J Perinat Educ. 2013;22(2):121-128. doi: 10.1891/1058-1243.23.1.9
 3. World Health Organization. WHO recommendations on maternal health care and cesarean section rates. 2021. Available from: https://www.who.int/publications/i/item/9789240045989.
 4. Molina G, Weiser TG, Lipsitz SR, Esquivel MM, Uribe-Leitz T, Azad T, Haynes AB. Relationship between cesarean delivery rate and maternal and neonatal mortality. JAMA. 2015;314(21):2263-2270. doi: 10.1001/jama.2015.15553
-5. Simkin P. Should ACOG support childbirth education as another means to improve obstetric outcomes? Response to ACOG Committee Opinion #687. Birth. 2017;44(4):293-297.
-doi: 10.1111/birt.12306.
+5. Simkin P. Should ACOG support childbirth education as another means to improve obstetric outcomes? Response to ACOG Committee Opinion #687. Birth. 2017;44(4):293-297. doi: 10.1111/birt.12306.
 6. O'Hara MW, McCabe JE. Postpartum depression: Current status and future directions. Annual Review of Clinical Psychology. 2013;9(1):379-407. doi: 10.1146/annurev-clinpsy-050212-185612.
 7. Slomian J, Honvo G, Emonts P, Reginster JY, Bruyère O. Conse- quences of maternal postpartum depression: A systematic review. Women's Health. 2019;15:1-11. doi: 10.1177/1745506519844044.
 8. Ayers S, Bond R, Bertullies S, Wijma K. The etiology of post-trau- matic stress following childbirth. Psychological Medicine. 2016;46(6):1121-1134. doi: 10.1017/S0033291715002706.
 9. Glover V. Maternal depression, anxiety and stress during pregnan- cy. Best Practice & Research Clinical Obstetrics & Gynaecology. 2014;28(1):25-35. doi: 10.1016/j.bpobgyn.2013.08.017.
-10. Henderson J, Redshaw M. Costing pregnancy-related care. BMC Pregnancy and Childbirth. 2017;17(1):1-9.
-doi: 10.1186/1471-2393-13-196.
+10. Henderson J, Redshaw M. Costing pregnancy-related care. BMC Pregnancy and Childbirth. 2017;17(1):1-9. doi: 10.1186/1471-2393-13-196.
 11. Filippi, V., Chou, D., Ronsmans, C., Graham, W., & Say, L. (2016). Levels and causes of maternal mortality. Reproductive Health, 13(1), 1–11.
-12. Renfrew MJ, McFadden A, Bastos MH, Campbell J, Channon AA,
-Cheung NF, Declercq E. Midwifery and quality care. Lancet.
-2014;384(9948):1129-1145. doi: 10.1016/S0140-6736(14)60789-3.
-13. Faro L. Medical liability and defensive medicine. Eur J Obstet
-Gynecol Reprod Biol. 2019;235:87-92.
-14. Studdert DM, Mello MM, Sage WM, DesRoches CM, Peugh J, Zapert
-K, Brennan TA. Defensive Medicine Among High-Risk Specialist Physicians in a Volatile Malpractice Environment. JAMA. 2005;293(21):2609-2617. doi:10.1001/jama.293.21.2609
-15. Jackson E. Medical law: Text, cases, and materials. 2017.
-doi: 10.1093/he/9780198825845.001.0001.
+12. Renfrew MJ, McFadden A, Bastos MH, Campbell J, Channon AA, Cheung NF, Declercq E. Midwifery and quality care. Lancet. 2014;384(9948):1129-1145. doi: 10.1016/S0140-6736(14)60789-3.
+13. Faro L. Medical liability and defensive medicine. Eur J Obstet Gynecol Reprod Biol. 2019;235:87-92.
+14. Studdert DM, Mello MM, Sage WM, DesRoches CM, Peugh J, Zapert K, Brennan TA. Defensive Medicine Among High-Risk Specialist Physicians in a Volatile Malpractice Environment. JAMA. 2005;293(21):2609-2617. doi:10.1001/jama.293.21.2609
+15. Jackson E. Medical law: Text, cases, and materials. 2017. doi: 10.1093/he/9780198825845.001.0001.
 16. Faraj A, Ben Omran S. Demographic changes for the Libyan population and future trends (1954–2050). 2023.
 17. Gurol-Urganci I, Bou-Antoun S, Lim CP, Cromwell DA, Mahmood TA, Templeton A, van der Meulen JH. The impact of cesarean section on subsequent fertility. Hum Reprod. 2013;28(7):1949-1956. doi: 10.1093/humrep/det130.
 18. Silver RM, Landon MB, Rouse DJ, Leveno KJ, Spong CY, Thom EA, Mercer BM. Maternal morbidity associated with multiple repeat cesarean deliveries. Obstetrics & Gynecology. 2006;107(6):1226-1232. doi: 10.1097/01.AOG.0000219750.79480.84.
@@ -211,21 +203,20 @@ doi: 10.1093/he/9780198825845.001.0001.
 20. International Monetary Fund. Libya: Economic reforms and challenges. 2020. Available from: https://cbl.gov.ly/en/micifaf/sites/4/2023/11/Selected-Issues-on-the-Libyan-Banking-Sector-IMF.pdf.
 21. United Nations Development Programme. Libya human develop- ment report. 2016. Available from: https://hdr.undp.org/content/human-development-report-2016.
 22. United Nations Human Settlements Programme. Urbanization trends in North Africa. 2021. Available from: https://habnet.unhabitat.org/sites/default/files/documents/2021%20ANNUAL%20Report%20Final.pdf.
-23. Central Agency for Public Mobilization and Statistics. Egypt in figures. 2023. Available from: https://www.csregypt.com/en/egypt-in-figures-2023-booklet-includes-key-sustainable-development-indicators/#:~:text=%E2%80% 9CEgypt%20in%20Figures%202023%E2%80%9D%20Booklet%2 0%E2%80%93%20released%20by,in%20Egypt%3B%20namely% 20demographic%2C%20economic%20and%20environmental%2 0dimensions.’
+23. Central Agency for Public Mobilization and Statistics. Egypt in figures. 2023. Available from: https://www.csregypt.com/en/egypt-in-figures-2023-booklet-includes-key-sustainable-development-indicators/#:~:text=%E2%80%9CEgypt%20in%20Figures%202023%E2%80%9D%20Booklet%2 0%E2%80%93%20released%20by,in%20Egypt%3B%20namely% 20demographic%2C%20economic%20and%20environmental%20dimensions.
 24. International Labour Organization. Youth employment challenges in Arab states. 2022. Available from: https://www.ilo.org/resource/brief/global-employment-trends-youth-2022-arab-states. United Nations. World urbanization prospects. 2022. Available from: https://population.un.org/wup/.
 25. United Nations. World urbanization prospects. 2022. Available from: https://population.un.org/wup/.
 26. Pew Research Center. Religious and ethnic composition of North Africa. 2021. Available from: https://www.pewresearch.org/religion/2015/04/02/middle-east-north-africa/.
-27. World Health Organization Regional Office for the Eastern Mediterranean. Cesarean section trends in the Eastern Mediterranean Region 2023. 2023. Available from: https://applications.em-ro.who.int/emhj/v25/11/10203397-2019-2511-837-846.pdf.
+27. World Health Organization Regional Office for the Eastern Mediterranean. Cesarean section trends in the Eastern Mediterranean Region 2023. 2023. Available from: https://applications.em-ro.who.int/emhj/v25/11/102033972019-2511-837-846.pdf.
 28. Algerian Ministry of Health. Annual surgical delivery report. 2023. Available from: https://www.unicef.org/media/152551/file/Algeria-2023-COAR.pdf.
 29. Egypt Ministry of Health and Population. Egypt demographic and health survey 2021. 2021. Available from: https://www.unicef.org/egypt/reports/egypt-demographic-and-health-survey-2014.
 30. International Diabetes Federation. IDF diabetes atlas. 2023;10th ed. Available from: https://pubmed.ncbi.nlm.nih.gov/35914061/.
-31. United Nations Population Fund. State of Libya's population report. 2022. Available from: https://www.unfpa.org/data/world-popula- tion/LY.
+31. United Nations Population Fund. State of Libya's population report. 2022. Available from: https://www.unfpa.org/data/world-population/LY.
 32. Libyan National Center for Disease Control. Libyan health statistics annual report. 2023. Available from: https://ncdc.org.ly/Ar/.
 33. Tunisian National Health Observatory. Annual report on maternal health indicators. 2022. Available from: https://applications.emro.who.int/docs/WHOEMHST267E-eng.pdf.
-34. World Health Organization. Midwife-led care models in North Africa. 2023. Available from: https://www.who.int/publica- tions/i/item/9789240098268.
+34. World Health Organization. Midwife-led care models in North Africa. 2023. Available from: https://www.who.int/publications/i/item/9789240098268.
 35. Beck CT, Watson S, Redd B. Traumatic childbirth and its aftermath: Is there a difference between a near-miss and a near-death experience? Journal of Obstetric, Gynecologic & Neonatal Nursing. 2018;47(5):622-631. doi: 10.1891/1058-1243.27.3.175
-36. Heymann J, Sprague AR, Earle A, McCormack M, Warner D, Raub A. Paid parental leave and family wellbeing in the sustainable development era. Public Health Reviews. 2019;40(1):1-9.
-doi: 10.1186/s40985-019-0113-3.
+36. Heymann J, Sprague AR, Earle A, McCormack M, Warner D, Raub A. Paid parental leave and family wellbeing in the sustainable development era. Public Health Reviews. 2019;40(1):1-9. doi: 10.1186/s40985-019-0113-3.
 37. Glynn SJ. An unequal division of labor: How equitable workplace policies would benefit working mothers. 2018. Available from: https://www.americanprogress.org/article/unequal-division-labor/.
 38. Chauhan SP, Beydoun H, Chang G. Maternal request cesarean: Are medico-legal concerns at play? American Journal of Obstetrics and Gynecology. 2020;223(5):711-718. doi: 10.1016/j.ajog.2020.04.034
 39. Murthy SK, Mehta RH, Rajagopal S, Swaminathan R. Medico-legal awareness and ethical issues among healthcare professionals: A cross-sectional study. Indian Journal of Medical Ethics. 2018;3(3):174-179. doi: 10.20529/IJME.2018.046
