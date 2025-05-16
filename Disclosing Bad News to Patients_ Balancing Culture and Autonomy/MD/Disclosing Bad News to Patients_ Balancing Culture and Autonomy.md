@@ -19,7 +19,7 @@ Medical training has traditionally prioritized technical and scientific knowledg
 In Libya, formal training in communication and ethical decision-making remains limited, leaving medical students and residents unprepared for emotionally sensitive conversations and reinforcing a non-disclosure norm. Although often justified by cultural preferences for family-centered care, this only amplifies physician unease. Recent WFME-guided reforms introducing structured soft-skills training—breaking bad news, patient-centered communication, and ethical reasoning—will enhance Libyan graduates’ ability to navigate these challenges while respecting cultural values.
 
 
-[Insert Truth Disclosure Practices Across Selected Countries Figure Here]
+![Alt text](https://raw.githubusercontent.com/Kaidasenpai/JBAEM_VOL1_ISSUE1/refs/heads/main/Disclosing%20Bad%20News%20to%20Patients_%20Balancing%20Culture%20and%20Autonomy/Figures/Figure_1.png)
 
 
 ##### Proposed Solution: Balancing Autonomy and Culture
