@@ -208,20 +208,20 @@ doi: 10.1093/he/9780198825845.001.0001.
 17. Gurol-Urganci I, Bou-Antoun S, Lim CP, Cromwell DA, Mahmood TA, Templeton A, van der Meulen JH. The impact of cesarean section on subsequent fertility. Hum Reprod. 2013;28(7):1949-1956. doi: 10.1093/humrep/det130.
 18. Silver RM, Landon MB, Rouse DJ, Leveno KJ, Spong CY, Thom EA, Mercer BM. Maternal morbidity associated with multiple repeat cesarean deliveries. Obstetrics & Gynecology. 2006;107(6):1226-1232. doi: 10.1097/01.AOG.0000219750.79480.84.
 19. El-Ghannam AR. The determinants of fertility in Libya. Journal of North African Studies. 2002;7(3):1-20.
-20. International Monetary Fund. Libya: Economic reforms and challenges. 2020. Available from: https://cbl.gov.ly/en/mici- faf/sites/4/2023/11/Selected-Is- sues-on-the-Libyan-Banking-Sector-IMF.pdf.
-21. United Nations Development Programme. Libya human develop- ment report. 2016. Available from: https://hdr.undp.org/content/hu- man-development-report-2016.
-22. United Nations Human Settlements Programme. Urbanization trends in North Africa. 2021. Available from: https://habnet.unhabi- tat.org/sites/default/files/docu- ments/2021%20ANNUAL%20Report%20Final.pdf.
-23. Central Agency for Public Mobilization and Statistics. Egypt in figures. 2023. Available from: https://www.csregypt.com/en/- egypt-in-figures-2023-booklet-inc- ludes-key-sustainable-development-indicators/#:~:text=%E2%80% 9CEgypt%20in%20Figures%202023%E2%80%9D%20Booklet%2 0%E2%80%93%20released%20by,in%20Egypt%3B%20namely% 20demographic%2C%20economic%20and%20environmental%2 0dimensions.’
-24. International Labour Organization. Youth employment challenges in Arab states. 2022. Available from: https://www.ilo.org/re- source/brief/global-employment-trends-youth-2022-arab-states. United Nations. World urbanization prospects. 2022. Available from: https://population.un.org/wup/.
+20. International Monetary Fund. Libya: Economic reforms and challenges. 2020. Available from: https://cbl.gov.ly/en/micifaf/sites/4/2023/11/Selected-Issues-on-the-Libyan-Banking-Sector-IMF.pdf.
+21. United Nations Development Programme. Libya human develop- ment report. 2016. Available from: https://hdr.undp.org/content/human-development-report-2016.
+22. United Nations Human Settlements Programme. Urbanization trends in North Africa. 2021. Available from: https://habnet.unhabitat.org/sites/default/files/documents/2021%20ANNUAL%20Report%20Final.pdf.
+23. Central Agency for Public Mobilization and Statistics. Egypt in figures. 2023. Available from: https://www.csregypt.com/en/egypt-in-figures-2023-booklet-includes-key-sustainable-development-indicators/#:~:text=%E2%80% 9CEgypt%20in%20Figures%202023%E2%80%9D%20Booklet%2 0%E2%80%93%20released%20by,in%20Egypt%3B%20namely% 20demographic%2C%20economic%20and%20environmental%2 0dimensions.’
+24. International Labour Organization. Youth employment challenges in Arab states. 2022. Available from: https://www.ilo.org/resource/brief/global-employment-trends-youth-2022-arab-states. United Nations. World urbanization prospects. 2022. Available from: https://population.un.org/wup/.
 25. United Nations. World urbanization prospects. 2022. Available from: https://population.un.org/wup/.
-26. Pew Research Center. Religious and ethnic composition of North Africa. 2021. Available from: https://www.pewresearch.org/reli- gion/2015/04/02/middle-east-north-africa/.
-27. World Health Organization Regional Office for the Eastern Mediterranean. Cesarean section trends in the Eastern Mediterra- nean Region 2023. 2023. Available from: https://applications.em-ro.who.int/emhj/v25/11/10203397-2019-2511-837-846.pdf.
-28. Algerian Ministry of Health. Annual surgical delivery report. 2023. Available from: https://www.unicef.org/media/152551/file/Alge- ria-2023-COAR.pdf.
-29. Egypt Ministry of Health and Population. Egypt demographic and health survey 2021. 2021. Available from: https://www.unicef.org/- egypt/reports/egypt-demographic-and-health-survey-2014.
+26. Pew Research Center. Religious and ethnic composition of North Africa. 2021. Available from: https://www.pewresearch.org/religion/2015/04/02/middle-east-north-africa/.
+27. World Health Organization Regional Office for the Eastern Mediterranean. Cesarean section trends in the Eastern Mediterranean Region 2023. 2023. Available from: https://applications.em-ro.who.int/emhj/v25/11/10203397-2019-2511-837-846.pdf.
+28. Algerian Ministry of Health. Annual surgical delivery report. 2023. Available from: https://www.unicef.org/media/152551/file/Algeria-2023-COAR.pdf.
+29. Egypt Ministry of Health and Population. Egypt demographic and health survey 2021. 2021. Available from: https://www.unicef.org/egypt/reports/egypt-demographic-and-health-survey-2014.
 30. International Diabetes Federation. IDF diabetes atlas. 2023;10th ed. Available from: https://pubmed.ncbi.nlm.nih.gov/35914061/.
 31. United Nations Population Fund. State of Libya's population report. 2022. Available from: https://www.unfpa.org/data/world-popula- tion/LY.
 32. Libyan National Center for Disease Control. Libyan health statistics annual report. 2023. Available from: https://ncdc.org.ly/Ar/.
-33. Tunisian National Health Observatory. Annual report on maternal health indicators. 2022. Available from: https://applications.em- ro.who.int/docs/WHOEMHST267E-eng.pdf.
+33. Tunisian National Health Observatory. Annual report on maternal health indicators. 2022. Available from: https://applications.emro.who.int/docs/WHOEMHST267E-eng.pdf.
 34. World Health Organization. Midwife-led care models in North Africa. 2023. Available from: https://www.who.int/publica- tions/i/item/9789240098268.
 35. Beck CT, Watson S, Redd B. Traumatic childbirth and its aftermath: Is there a difference between a near-miss and a near-death experience? Journal of Obstetric, Gynecologic & Neonatal Nursing. 2018;47(5):622-631. doi: 10.1891/1058-1243.27.3.175
 36. Heymann J, Sprague AR, Earle A, McCormack M, Warner D, Raub A. Paid parental leave and family wellbeing in the sustainable development era. Public Health Reviews. 2019;40(1):1-9.
