@@ -22,8 +22,8 @@ Medicolegal awareness is another important influential factor in maternal decisi
 
 In Libya, data from the Ministry of Health indicate a marked decline in the total fertility rate (TFR), falling from 7.28 in 1975–1980 to just 2.17 in 2016–2020 (Figure 1).<sup style="color:#44A6B2;">16</sup> The country's current population pyramid reveals a shift toward an older demographic, suggesting a decrease in youth populations and an aging society.<sup style="color:#44A6B2;">17</sup> Against this demographic backdrop, the present study aims to explore Libyan women’s awareness and experiences regarding childbirth modes, with particular attention to the exceptionally high rates of C-sections and their implications for the nation’s broader demographic trends. 
 
-[insert figure 1]
-Figure 1: Total Births in Libya from 2013 to 2023.<sup style="color:#44A6B2;">16</sup>
+![Alt text](https://raw.githubusercontent.com/Kaidasenpai/JBAEM_VOL1_ISSUE1/refs/heads/main/Exploring%20Childbirth%20Trends%20and%20Maternal%20Awareness%20in%20Libya/Figures/Figure_1.png)
+
 
 ### Methodology
 
@@ -73,8 +73,8 @@ Table 1: Socio-demographic profiles of the study sample
 **2. Sources of Information on Birth Methods**
 Doctors were the most commonly cited source of information (41.4%), followed by the internet (28.2%) and family/friends (27.7%). Only 0.7% relied on published scientific research directly (Figure 2).
 
-[insert figure 2]
-Figure 2: Primary Sources of Information on Birth Type Among Women
+![Alt text](https://raw.githubusercontent.com/Kaidasenpai/JBAEM_VOL1_ISSUE1/refs/heads/main/Exploring%20Childbirth%20Trends%20and%20Maternal%20Awareness%20in%20Libya/Figures/Figure_2.png)
+
 
 **3. Communication and Autonomy in Choosing the Mode of Delivery**
 61.6% of the women stated that their doctor did not explain the differences between normal delivery and cesarean section at the outset of their pregnancy. Furthermore, 65.4% felt they lacked autonomy in choosing between birth methods, highlighting gaps in patient-provider communication and shared decision-making (Table 2).
@@ -91,20 +91,20 @@ Table 2: Did the Doctor Explain the Difference Between Natural Birth and Cesarea
 **4. Mode of Delivery and Birth Order**
 This survey showed a very high frequency of C-sections reported by participants, reaching 60.8% for the first baby, and 52% for the second baby. This rate signifies that cesarean deliveries may be disproportionately frequent in Libya than most nations. While the percentage of cesarean deliveries decreases with higher birth order, it remains significantly high overall (Figure 3).
 
-[insert figure 3]
-Figure 3: Type of Birth According to the Order of the Child
+![Alt text](https://raw.githubusercontent.com/Kaidasenpai/JBAEM_VOL1_ISSUE1/refs/heads/main/Exploring%20Childbirth%20Trends%20and%20Maternal%20Awareness%20in%20Libya/Figures/Figure_3.png)
+
 
 **5. Association Between Mode of Delivery and Number of Children**
 Women who had only cesarean deliveries reported an average of 1.88 children, compared to 2.19 of those who had normal deliveries.. Interestingly, a mixed delivery history (both normal and cesarean) reported an average of 3.19 children. The difference in means was statistically significant (p < 0.001) between the three groups, suggesting that women with repeated cesarean sections may choose or be advised to limit family size (Figure 4)
 
-[insert figure 4]
-Figure 4: Comparison of Average Number of Births by Delivery Method
+![Alt text](https://raw.githubusercontent.com/Kaidasenpai/JBAEM_VOL1_ISSUE1/refs/heads/main/Exploring%20Childbirth%20Trends%20and%20Maternal%20Awareness%20in%20Libya/Figures/Figure_4.png)
+
 
 **6. Maternal Age at First Birth and Preferred Delivery Mode**
 Younger mothers (< 25 years) were almost equally likely to have a cesarean as a normal delivery (49.1% each). However, among those aged between 30 and 34 years, 64.2% had cesarean deliveries. This trend suggests that advancing maternal age may increase reliance on surgical intervention (Figure 5).
 
-[insert figure 5]
-Figure 5: Age of Mother at the First Child and Type of Birth
+![Alt text](https://raw.githubusercontent.com/Kaidasenpai/JBAEM_VOL1_ISSUE1/refs/heads/main/Exploring%20Childbirth%20Trends%20and%20Maternal%20Awareness%20in%20Libya/Figures/Figure_5.png)
+
 
 **7. Psychological Aspect of Caesarean Section**
 Psychological aspects were evident. Almost 29.7% of the sample believed that cesarean deliveries increase the likelihood of psychological issues, 40.6% reported limited psychological support during their birth experience and 25.9 of the sample were unaware of available mental health resources (Table 3).
