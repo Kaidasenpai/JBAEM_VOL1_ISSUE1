@@ -8,8 +8,7 @@ Despite considerable advances in percutaneous aortic valve implantation in the e
 
 In 1967 Donald Ross pioneered the eponymous Ross procedure in which a pulmonary autograft is used to replace a diseased aortic valve and the pulmonary valve is replaced with a homograft (Figure 1).<sup style="color:#44A6B2;">1</sup> Since its inception, the use of the Ross procedure has shown significant promise in a wide range of patients suffering from aortic valve disease. The late 90s and early 2000s saw a precipitous drop in the absolute and relative number of Ross procedures in adults performed for fear of longer operation duration, higher transfusion rates, and a considerably high perioperative mortality rate.<sup style="color:#44A6B2;">2</sup> Whereas the paediatric population saw a gradual, sustained increase in the use of the Ross procedure since its inception and remains today a well-established option for aortic valve disease. As a living valve, it is able to undergo somatic growth in the paediatric population and hence its popularity.<sup style="color:#44A6B2;">3</sup> In recent years, however, there has been a revival in the young adult population (18–60-year-old group) given compelling evidence showing excellent long-term survival and improved quality of life as the technique has increased in popularity. Particularly, there is evidence to suggest young adult patients return to a good quality of life post procedure and enjoy survival beyond the third decade often free from re-intervention.<sup style="color:#44A6B2;">4</sup>
 
-[insert figure 1 here]
-Figure 1: The Ross procedure: aortic valve replacement with a pulmonary autograft and pulmonary homograft implantation.<sup style="color:#44A6B2;">11</sup>
+![Alt text](https://raw.githubusercontent.com/Kaidasenpai/JBAEM_VOL1_ISSUE1/refs/heads/main/Revival%20of%20the%20Ross%20Procedure%20in%20Adults_%20A%20Narrative%20Review/Figures/Figure_1.png)
 
 Risk mitigation strategies, improved peri-operative care, surgeon experience and centralisaiton of the procedure have all acted to improve outcomes. This has led to outcomes and perioperative risk of complications that one would associate with isolated aortic valve replacement.<sup style="color:#44A6B2;">3–8</sup> There is a recognised learning curve associated with any complex or niche cardiac surgical technique.<sup style="color:#44A6B2;">3</sup> However, good outcomes can be achieved with sufficient case volume and dedicated expertise. The 2021 ESC/EACTs guidelines for the management of valvular heart disease say that the Ross procedure may be an alternative to valve replacement when performed by experienced surgeons.<sup style="color:#44A6B2;">9</sup> In 2020, the American College of Cardiology/American Heart Association class IIb recommended the Ross procedure in young adults (under 50 years of age) with aortic valve disease.<sup style="color:#44A6B2;">10</sup>
 
@@ -51,8 +50,8 @@ When considering stabilising the sinotubular junction it is important to cut the
 
 The Ross procedure is not a key that unlocks every door and careful consideration should be made when selecting the right patients for the procedure. Factors that are important include type of valvular dysfunction, performance status of the patient, and comorbidities. In young adults under 60, the anticipated life expectancy is arguably the most significant factor to consider. Those with life expectancy greater than 15 years should be considered and would benefit from the Ross.
 
-[insert figure 2]
-Figure 2: Intraoperative image of Dacron reinforcement of the autograft just before implantation in the aortic position.
+![Alt text](https://raw.githubusercontent.com/Kaidasenpai/JBAEM_VOL1_ISSUE1/refs/heads/main/Revival%20of%20the%20Ross%20Procedure%20in%20Adults_%20A%20Narrative%20Review/Figures/Figure_2.png)
+
 
 ### Conclusion & Take-Home Messages
 
