@@ -23,5 +23,5 @@ Carlos A. Mestres and Reida El Oakley are Co-Editors-in-Chief of the Journal of 
 
 
 ---
-[insert ibn sina picture with caption khairya]
+[insert ibn sina picture with caption]
 Excerpt from Ibn Sina’s The Canon of Medicine, showcasing his deep commitment to evidence, logic, and empirical observation in the pursuit of medical knowledge.
