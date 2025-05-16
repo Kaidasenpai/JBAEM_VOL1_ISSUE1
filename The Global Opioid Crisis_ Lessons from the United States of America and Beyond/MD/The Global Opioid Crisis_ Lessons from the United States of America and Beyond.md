@@ -26,5 +26,6 @@ The authors declare no conflicts of interest.
 
 
 ---
-[insert opioid use cartogram]
+![Alt text](https://raw.githubusercontent.com/Kaidasenpai/JBAEM_VOL1_ISSUE1/refs/heads/main/The%20Global%20Opioid%20Crisis_%20Lessons%20from%20the%20United%20States%20of%20America%20and%20Beyond/Figures/Figure_1.png)
+
 This is a cartogram showing global opioid use, with country sizes scaled to user numbers (UNODC data). Larger countries reflect higher opioid prevalence.
