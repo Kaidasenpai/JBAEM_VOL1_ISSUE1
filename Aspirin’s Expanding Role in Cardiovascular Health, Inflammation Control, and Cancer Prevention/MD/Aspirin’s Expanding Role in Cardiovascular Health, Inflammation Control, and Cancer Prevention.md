@@ -12,7 +12,7 @@ In addition, recent evidence suggests aspirin use may significantly reduce the r
 Despite its remarkable therapeutic potential, aspirin usage is not without risks. Potential adverse effects include gastrointestinal irritation, increased risk of bleeding, renal dysfunction, and hypersensitivity reactions, necessitating careful patient selection and dosage considerations. Given aspirin’s affordability and accessibility, it could represent an invaluable addition to the arsenal against cardiovascular disease, chronic inflammation, and cancer metastasis. However, comprehensive clinical trials are essential to determine optimal dosing and fully delineate aspirin’s risk–benefit profile.
 
 
-[insert Mechanisms of Therapeutic Actions of Aspirin (Acetylsalicylic Acid) Flow chart]
+![Figure 1](https://raw.githubusercontent.com/Kaidasenpai/JBAEM_VOL1_ISSUE1/refs/heads/main/Aspirin%E2%80%99s%20Expanding%20Role%20in%20Cardiovascular%20Health%2C%20Inflammation%20Control%2C%20and%20Cancer%20Prevention/Figures/Figure_1.png)
 
 #### References
 
