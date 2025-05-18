@@ -42,9 +42,9 @@ Ethical approval was granted by the ethical committee of the Libyan Internationa
 
 A total of 166 blood samples were collected using a convenient sampling approach from female participants within the target age range. The blood samples collected were analyzed for the presence and concentration of rubella-specific IgG and IgM antibodies. These antibody markers serve as indicators of past exposure (IgG) and current infection (IgM) with the rubella virus.
 
-Quantitative assessment of rubella-specific antibodies was performed using a chemiluminescence immunoassay ( CLIA) technique. Specifically, the Mindray CL-series Chemiluminescence Immunoassay Analyzers were the instruments used for serological testing.<sup style="color:#44A6B2;">7</sup> 
+Quantitative assessment of rubella-specific antibodies was performed using a chemiluminescence immunoassay (CLIA) technique. Specifically, the Mindray CL-series Chemiluminescence Immunoassay Analyzers were the instruments used for serological testing.<sup style="color:#44A6B2;">7</sup> 
 
-The presence or absence of the rubella virus IgG/IgM antibodies is determined by comparing the RLU measurement to an established cutoff value from the calibration. A cutoff index ( COI) is calculated by Sample RLU/Cutoff RLU. Antibody concentration results were interpreted as follows:<sup style="color:#44A6B2;">7</sup> 
+The presence or absence of the rubella virus IgG/IgM antibodies is determined by comparing the RLU measurement to an established cutoff value from the calibration. A cutoff index (COI) is calculated by Sample RLU/Cutoff RLU. Antibody concentration results were interpreted as follows:<sup style="color:#44A6B2;">7</sup> 
 
 Table 1: IgG/IgM Levels Interpretation in IU/mL
 
@@ -54,7 +54,7 @@ Table 1: IgG/IgM Levels Interpretation in IU/mL
 | Equivocal   | 10 to < 15    | ≥ 0.8 to < 1.2  |
 | Positive    | ≥ 15          | ≥ 1.2           |
 
-The data collected in this study was analyzed using SPSS statistical software. Descriptive statistics were calculated, including the mean and standard deviation for the rubella-specific IgG and IgM antibody titers. The seroprevalence of rubella IgG and IgM antibodies was calculated as the proportion or percentage of women in the negative, equivocal, and positive categories for each antibody. To assess the statistical significance of differences in rubella IgG and IgM seroprevalence across the different age groups, chi-square (χ<sup style="color:;">2</sup>) tests were performed. The level of statistical significance was set at p<0.05 for all analyses.
+The data collected in this study was analyzed using SPSS statistical software. Descriptive statistics were calculated, including the mean and standard deviation for the rubella-specific IgG and IgM antibody titers. The seroprevalence of rubella IgG and IgM antibodies was calculated as the proportion or percentage of women in the negative, equivocal, and positive categories for each antibody. To assess the statistical significance of differences in rubella IgG and IgM seroprevalence across the different age groups, chi-square (χ<sup >2</sup>) tests were performed. The level of statistical significance was set at p<0.05 for all analyses.
 
 ### Results
 
@@ -90,7 +90,7 @@ Table 4: Percentage of rubella IgG levels within each age group.
 | 36–45     | 0 (0 %)              | 0 (0 %)                      | 7 (100 %)               |
 
 
-χ<sup style="color:;">2</sup>= 3.724, p-value= 0.445
+χ<sup >2</sup>= 3.724, p-value= 0.445
 
 The mean and standard deviation of rubella-specific IgM antibody level among the females at LIMU was 0.39 ± 0.49 (range: 0.20 to 6.5). Of the 166 women, 1 (0.6%) was positive for rubella IgM antibody, 161 (97%) were negative, and 4 (2.4%) were equivocal (Table 5).
 
@@ -112,7 +112,7 @@ Table 6: Percentage of IgM levels within each age group
 | 36–45     | 7 (100%)         | 0 (0%)                  | 0 (0%)          |
 
 
-χ<sup style="color:;">2</sup>= 4.461, p-value= 0.347
+χ<sup >2</sup>= 4.461, p-value= 0.347
 
 There were no statistically significant differences associated with rubella seropositivity (IgG and IgM) and age group (p>0.05) (Table 7).
 
@@ -163,10 +163,10 @@ The authors declare no conflicts of interest.
 
 1. Centers for Disease Control and Prevention. Clinical overview of rubella. 2023. Available from: https://www.cdc.gov/rubella/hcp/- clinical-overview/index.html.
 2. Davidkin I, Jokinen S, Broman M, Leinikki P, Peltola H. Persistence of measles, mumps, and rubella antibodies in an MMR-vaccinated cohort: a 20-year follow-up. J Infect Dis. 2008;197(7):950-956. doi:10.1086/528993.
-3. Centers for Disease Control and Prevention. Rubella. CDC Yellow Book 2024 [Internet]. 2024. Available from: https://wwwnc.cdc.gov- /travel/yellowbook/2024/infections-dis- eases/rubella#:~:text=Rubella%20virus%20continues%20to%20cir culate.
+3. Centers for Disease Control and Prevention. Rubella. CDC Yellow Book 2024 [Internet]. 2024. Available from: https://wwwnc.cdc.gov- /travel/yellowbook/2024/infections-diseases/rubella#:~:text=Rubella%20virus%20continues%20to%20cir culate.
 4. Bailey A, Sapra A. MMR Vaccine. In: StatPearls. Treasure Island (FL): StatPearls Publishing; 2020. Available from: https://www.nc- bi.nlm.nih.gov/books/NBK554450/.
 5. World Health Organization. The immunological basis for immuni- zation series. [Internet]. 2022 [cited 2022]:1-16. Available from: https://iris.who.int/handle/10665/43922.
-6. World Health Organization. Measles and rubella strategic framework: 2021-2030. 2020. Available from: https://www.who.int/- publications/i/item/measles-and-rubel- la-strategic-framework-2021-2030.
+6. World Health Organization. Measles and rubella strategic framework: 2021-2030. 2020. Available from: https://www.who.int/- publications/i/item/measles-and-rubella-strategic-framework-2021-2030.
 7. Shenzhen Mindray Bio-Medical Electronics Co., Ltd. User manual for the Chemiluminescent Immunoassay Rubella virus IgG and IgM kits. 2022. Available from: https://www.mindray.com.
 8. Ali SM, Qowaider RM, Almal NaglaY B, Kahald Fayourz A. Seroprev- alence of antibodies to cytomegalovirus, rubella virus and T. Gondii among aborted women in El-Beida City. Saudi Journal of Biomedical Research. 2020;5(12):357-362.
 doi: 10.36348/sjbr.2020.v05i12.003.
