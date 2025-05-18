@@ -90,7 +90,7 @@ Table 4: Percentage of rubella IgG levels within each age group.
 | 36–45     | 0 (0 %)              | 0 (0 %)                      | 7 (100 %)               |
 
 
-χ<sup >2</sup>= 3.724, p-value= 0.445
+χ<sup class="x" >2</sup>= 3.724, p-value= 0.445
 
 The mean and standard deviation of rubella-specific IgM antibody level among the females at LIMU was 0.39 ± 0.49 (range: 0.20 to 6.5). Of the 166 women, 1 (0.6%) was positive for rubella IgM antibody, 161 (97%) were negative, and 4 (2.4%) were equivocal (Table 5).
 
