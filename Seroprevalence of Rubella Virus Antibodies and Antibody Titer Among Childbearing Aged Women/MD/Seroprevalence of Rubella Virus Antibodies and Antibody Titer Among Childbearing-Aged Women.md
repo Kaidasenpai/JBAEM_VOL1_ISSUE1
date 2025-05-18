@@ -38,7 +38,7 @@ All licensed rubella vaccines induce a good IgG antibody response, although tite
 
 A descriptive, cross-sectional, observational, study was conducted to assess the seroprevalence of rubella virus-specific antibodies and antibody titers among women aged 16-45 years, at the Libyan International Medical University. The study was carried out between May 4th, 2024 and July 24th, 2024.
 
-Ethical approval was granted by the ethical committee of the Libyan International University. Sample size of 160 participants was calculated by Cochran’s formula (n0 = (Z<sup style="color:;">2</sup> × p × q) / e<sup style="color:;">2</sup>) considering 95% confidence level, 5% margin of error and 85.9% seroprevalence rate of rubella antibodies. Before collecting samples, written consent was obtained from the participants, and verbal details of the research were provided.
+Ethical approval was granted by the ethical committee of the Libyan International University. Sample size of 160 participants was calculated by Cochran’s formula (n0 = (Z<sup>2</sup> × p × q) / e<sup>2</sup>) considering 95% confidence level, 5% margin of error and 85.9% seroprevalence rate of rubella antibodies. Before collecting samples, written consent was obtained from the participants, and verbal details of the research were provided.
 
 A total of 166 blood samples were collected using a convenient sampling approach from female participants within the target age range. The blood samples collected were analyzed for the presence and concentration of rubella-specific IgG and IgM antibodies. These antibody markers serve as indicators of past exposure (IgG) and current infection (IgM) with the rubella virus.
 
@@ -116,12 +116,14 @@ Table 6: Percentage of IgM levels within each age group
 
 There were no statistically significant differences associated with rubella seropositivity (IgG and IgM) and age group (p>0.05) (Table 7).
 
-
+Table 7: Rubella IgG and IgM seroprevalence among women according to age group
 | Age Group | IgG Positive   | IgM Negative   |
 |-----------|----------------|----------------|
 | 16–25     | 114 (84.4%)    | 132 (97.8%)    |
 | 26–35     | 23 (95.8%)     | 22 (91.7%)     |
 | 36–45     | 7 (100%)       | 7 (100%)       |
+
+
 IgG p-value: 0.181, IgM p-value: 0.243
 
 
