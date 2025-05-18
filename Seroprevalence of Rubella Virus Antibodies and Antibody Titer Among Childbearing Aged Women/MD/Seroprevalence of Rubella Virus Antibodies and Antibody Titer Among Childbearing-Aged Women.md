@@ -54,7 +54,7 @@ Table 1: IgG/IgM Levels Interpretation in IU/mL
 | Equivocal   | 10 to < 15    | ≥ 0.8 to < 1.2  |
 | Positive    | ≥ 15          | ≥ 1.2           |
 
-The data collected in this study was analyzed using SPSS statistical software. Descriptive statistics were calculated, including the mean and standard deviation for the rubella-specific IgG and IgM antibody titers. The seroprevalence of rubella IgG and IgM antibodies was calculated as the proportion or percentage of women in the negative, equivocal, and positive categories for each antibody. To assess the statistical significance of differences in rubella IgG and IgM seroprevalence across the different age groups, chi-square (χ<sup >2</sup>) tests were performed. The level of statistical significance was set at p<0.05 for all analyses.
+The data collected in this study was analyzed using SPSS statistical software. Descriptive statistics were calculated, including the mean and standard deviation for the rubella-specific IgG and IgM antibody titers. The seroprevalence of rubella IgG and IgM antibodies was calculated as the proportion or percentage of women in the negative, equivocal, and positive categories for each antibody. To assess the statistical significance of differences in rubella IgG and IgM seroprevalence across the different age groups, chi-square (χχ<sup class="x" style="color:#000000;" >2</sup>) tests were performed. The level of statistical significance was set at p<0.05 for all analyses.
 
 ### Results
 
@@ -112,7 +112,7 @@ Table 6: Percentage of IgM levels within each age group
 | 36–45     | 7 (100%)         | 0 (0%)                  | 0 (0%)          |
 
 
-χ<sup class="x" style="color:#000000;" >2</sup>= 4.461, p-value= 0.347
+χχ<sup class="x" style="color:#000000;" >2</sup>= 4.461, p-value= 0.347
 
 There were no statistically significant differences associated with rubella seropositivity (IgG and IgM) and age group (p>0.05) (Table 7).
 
