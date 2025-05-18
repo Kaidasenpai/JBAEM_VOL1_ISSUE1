@@ -30,19 +30,23 @@ In Libya, data from the Ministry of Health indicate a marked decline in the tota
 An online survey targeting Libyan women aged 15–49 with at least one prior birth was conducted between December 2024 and January 2025. The survey was distributed via social media and online community groups, yielding a total of 578 responses providing insights into their knowledge, attitudes, and experiences regarding childbirth.
 
 **Inclusion Criteria**
+
 - Libyan females aged 15–49 years with at least one prior birth (para 1 or more).
 - Willingness to provide informed consent and participate in an online questionnaire.
   
 **Survey Instrument**  
 
 - The questionnaire encompassed socio-demographic data, knowledge sources about birth methods, perceived freedom of choice in delivery mode, and experiences across psychological, economic, and legal aspects of childbirth.
+  
 **Data Collection and Ethical Considerations**  
+
 - The survey link was shared across various social media channels to reach as many eligible respon- dents as possible.
 - Participation was voluntary, with complete anonymity guaranteed.
 - No identifying information was collected.
-- Ethical approval was obtained from the ethics committee, UOB, adhering to principles of informed
-consent and data protection and confidentiality.
+- Ethical approval was obtained from the ethics committee, UOB, adhering to principles of informed consent and data protection and confidentiality.
+
 **Data Analysis**
+  
 - Quantitative data was analyzed using descriptive statistics (frequency, percentage, mean, standard deviation).
 - ANOVA tests assessed statistically significant differences (P < 0.05 was considered significant).
 - Results are presented in tables and figures for clarity.
