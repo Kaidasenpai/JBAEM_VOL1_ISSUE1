@@ -1,6 +1,7 @@
 ### Abstract
 
-**BACKGROUND** 
+**BACKGROUND**  
+
 Rubella virus is the sole member of the Rubivirus genus in the Matonaviridae family, previously classified under the Togaviridae family, that causes German measles. Humans are the only natural hosts for this virus. The virus is transmitted via respiratory droplets, and starts replication in nasopharyngeal lymphoid tissue, and then spreads to regional lymph nodes.
 
 Despite the significant decline of cases globally, rubella remains a global health concern, especially in regions such as Africa, East Asia, and South Asia. The aim of this research is to provide new data for the seroprevalence of rubella antibodies and antibody titers among childbearing aged women studying or working at the Libyan International University, and to assess the need for a booster dose of MMR vaccine.
@@ -8,10 +9,12 @@ Despite the significant decline of cases globally, rubella remains a global heal
 **METHODS AND MATERIALS** 
 A cross-sectional, observational, descriptive study was conducted to assess the seroprevalence of rubella virus-specific antibodies and antibody titers in the serum of 166 women of child-bearing age (16-45 years) using chemiluminescent immunoassay. The samples were collected using a convenience sampling approach. Statistical analyses were performed using a chi-square test and the Statistical Package for the Social Sciences (SPSS) software.
 
-**RESULTS** 
+**RESULTS**   
+
 The overall seroprevalence of rubella-specific IgG-positive antibodies was 86.7%, while 6% were IgG-negative and 7.2% were IgG-equivocal. Seroprevalence increased with age, reaching 100% in the 36-45 years age group. Only 0.6% were positive for rubella-specific IgM antibodies.
 
-**CONCLUSION** 
+**CONCLUSION**   
+
 These findings suggest relatively high immunity against rubella in this population, though a significant proportion remain unprotected. This may guide decision makers regarding implementation of relevant public health strategies and vaccination programs.
 
 ### Introduction
